@@ -26,3 +26,9 @@ Need to save the file to allow git status to detect it.
 
 ## local development
 1. open index.html in your own browser.
+
+
+## New notes
+`git push -u` equals `git push --set-upstream origin`
+
+pull request is to have code pulled to a different branch.
