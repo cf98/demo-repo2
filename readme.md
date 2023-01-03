@@ -15,4 +15,14 @@ git push origin main
 
 To add something like a shortcut to this: `git push -u origin main`, then in the future I can just use `git push`
 
+Need to save the file to allow git status to detect it.
 
+## branching.
+* each branch only keeps changes on its own.
+* works on feature branch before merge with the main branch.
+* `git branch` shows branches.
+* `git checkout -b feature-readme-instructions` will show the branches.
+* to change back: `git checkout main`
+
+## local development
+1. open index.html in your own browser.
