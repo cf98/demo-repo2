@@ -31,4 +31,5 @@ Need to save the file to allow git status to detect it.
 ## New notes
 `git push -u` equals `git push --set-upstream origin`
 
-pull request is to have code pulled to a different branch.
+pull request (PR) is to have code pulled to a different branch.
+make a PR, then merge?
